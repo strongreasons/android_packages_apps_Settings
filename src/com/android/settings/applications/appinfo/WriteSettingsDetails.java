@@ -78,6 +78,12 @@ public class WriteSettingsDetails extends AppInfoWithHeader implements OnPrefere
     }
 
     @Override
+    public void onDestroy() {
+        super.onDestroy();
+        mAppBridge.release();
+    }
+
+    @Override
     public boolean onPreferenceClick(Preference preference) {
         return false;
     }
