@@ -11462,4 +11462,9 @@
     <string name="bluetooth_connect_access_dialog_negative">Don\u2019t connect</string>
     <!-- Strings for Dialog connect button -->
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
+
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+
 </resources>
