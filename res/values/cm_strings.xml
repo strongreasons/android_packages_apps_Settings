@@ -217,4 +217,10 @@
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
 
+    <!-- Smart cutoff -->
+    <string name="smart_cutoff_title">Smart cutoff</string> 
+    <string name="smart_cutoff_summary">Set maximum temperature</string>
+    <string name="smart_cutoff_switch_title">Use Smart cutoff</string>
+    <string name="smart_cutoff_level_title">Stop trigger level</string>
+    <string name="smart_cutoff_resume_level_title">Start trigger level</string>
 </resources>
