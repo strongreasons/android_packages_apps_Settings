@@ -32,4 +32,7 @@
     <!-- Smart Charging -->
     <bool name="config_supportSmartCharging">false</bool>
 
+    <!-- Smart Cutoff -->
+    <bool name="config_supportSmartCutoff">false</bool>
+
 </resources>
