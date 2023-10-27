@@ -102,4 +102,9 @@
     <string name="fast_charging_title">Pengisian daya cepat</string>
     <string name="ignore_window_secure_title">Abaikan tanda keamanan jendela</string>
     <string name="ignore_window_secure_summary">Ini menghapus batas tangkapan layar dan rekaman layar untuk semua aplikasi. Biasanya, aplikasi khusus diganti dengan area hitam dalam catatan. Ini bisa nyaman dalam beberapa kasus tetapi dapat menyebabkan kebocoran privasi. Setelah mengubah sakelar ini, Anda mungkin perlu memulai ulang aplikasi agar perubahan diterapkan</string>
+    <string name="smart_charging_title">Pengisian Cerdas</string>
+    <string name="smart_charging_summary">Setel tingkat pengisian maksimum</string>
+    <string name="smart_charging_switch_title">Gunakan Smart charging</string>
+    <string name="smart_charging_level_title">Tingkat pemicu</string>
+    <string name="smart_charging_footer">Smart Charging memungkinkan Anda menyetel tingkat pengisian daya maksimum untuk memperpanjang masa pakai baterai</string>
 </resources>
