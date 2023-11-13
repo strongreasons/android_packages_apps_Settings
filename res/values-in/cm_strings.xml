@@ -100,4 +100,12 @@
     <string name="backup_transport_setting_label">Ubah penyedia cadangan</string>
     <string name="backup_transport_title">Pilih penyedia cadangan</string>
     <string name="fast_charging_title">Pengisian daya cepat</string>
+    <string name="smart_charging_title">Pengisian Cerdas</string>
+    <string name="smart_charging_summary">Tetapkan tingkat pengisian daya maksimum</string>
+    <string name="smart_charging_switch_title">Gunakan pengisian daya cerdas</string>
+    <string name="smart_charging_level_title">Hentikan tingkat pemicu</string>
+    <string name="smart_charging_resume_level_title">Mulai tingkat pemicu</string>
+    <string name="smart_charging_reset_stats_title">Setel ulang statistik baterai</string>
+    <string name="smart_charging_reset_stats_summary">Reset statistik baterai setelah mencapai tingkat pengisian daya yang ditentukan pengguna</string>
+    <string name="smart_charging_footer">Pengisian Daya Cerdas memungkinkan Anda menyetel tingkat pengisian daya maksimum untuk memperpanjang masa pakai baterai</string>
 </resources>
