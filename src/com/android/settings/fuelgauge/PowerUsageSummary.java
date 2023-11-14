@@ -28,6 +28,7 @@ import android.os.BatteryStats;
 import android.os.Bundle;
 import android.os.Handler;
 import android.provider.SearchIndexableResource;
+import android.provider.Settings;
 import android.provider.Settings.Global;
 import android.text.format.Formatter;
 import android.view.Menu;

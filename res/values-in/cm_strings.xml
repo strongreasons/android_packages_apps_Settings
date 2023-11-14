@@ -108,4 +108,6 @@
     <string name="smart_charging_reset_stats_title">Setel ulang statistik baterai</string>
     <string name="smart_charging_reset_stats_summary">Reset statistik baterai setelah mencapai tingkat pengisian daya yang ditentukan pengguna</string>
     <string name="smart_charging_footer">Pengisian Daya Cerdas memungkinkan Anda menyetel tingkat pengisian daya maksimum untuk memperpanjang masa pakai baterai</string>
+    <string name="custom_seekbar_default_value">Secara default</string>
+    <string name="custom_seekbar_default_value_is_set">Nilai default disetel</string>
 </resources>
